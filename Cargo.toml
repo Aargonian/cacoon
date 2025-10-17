@@ -14,7 +14,7 @@ tracing-subscriber = "0.3.20"
 quickcheck = "1.0.3"
 
 [lib]
-name = "cacoon-lib"
+name = "cacoon_lib"
 path = "src/lib.rs"
 
 [[bin]]
